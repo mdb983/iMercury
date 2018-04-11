@@ -1,0 +1,3 @@
+
+AFNetworking Version 3.0.2 
+Opted to include source code over CocoaPods or Static lib for ease of portability

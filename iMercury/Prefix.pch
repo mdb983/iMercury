@@ -1,0 +1,16 @@
+//
+//  Prefix.pch
+//  iMercury
+//
+//  Created by Marino di Barbora on 4/14/16.
+//  Copyright © 2016 Marino di Barbora. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+#endif /* Prefix_pch */
