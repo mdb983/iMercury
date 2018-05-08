@@ -6,7 +6,7 @@ I wrote this some time ago and, in the hope of avoiding possible future issues, 
 
 The only requirement is haveing an existing Pandora radio account with at least one active station.
 
-![Main Screen](https://github.com/mdb983/iMercury/MainScreen1.png)
+![Main Screen](https://github.com/mdb983/iMercury/iMercury/MainScreen1.png)
 
 Enjoy
 
